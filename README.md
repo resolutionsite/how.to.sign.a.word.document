@@ -1,7 +1,7 @@
 # How to Sign a Word Document?
 
 
-[![how to sign a word document](redd.png)](https://github.com/resolutionsite/how.to.sign.a.word.document)
+[![how to sign a word document](redd.png)](https://icncomputer.com/how-to-sign-a-word-document/)
 
 There are two significant steps to sign a Word document. First, we need to create or insert a signature line in the document. Second, you or the target user can add a signature on the signature line in the document. Though it sounds complicated, it is pretty easy to do. Here is how.
 
